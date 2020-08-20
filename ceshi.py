@@ -1,4 +1,4 @@
-
+print("欢迎大家来到这里")
 def printTable(stohhd):
 
     
